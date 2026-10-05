@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "AI NEWS — AIニュースを、ひと目で。",
+  "short_name": "AI NEWS",
+  "description": "国内外の最新AIニュースをカテゴリ別にまとめてチェック。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8fb",
+  "theme_color": "#f5f7fb",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
